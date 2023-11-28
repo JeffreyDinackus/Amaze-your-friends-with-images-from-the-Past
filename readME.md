@@ -9,9 +9,6 @@ the basic premise of this project is you download the pics who have had their me
 > The images inside will not actually give you gf 
 
 
-![example](./Readme_img/Screenshot_20231126-190845_Gallery.jpg)
-
-
 ## basic usage 
 
 * download a image you want. 
@@ -20,6 +17,11 @@ the basic premise of this project is you download the pics who have had their me
 
 * show it to people and make stuff up about the image 
 
+
+Example on my phone
+
+
+![example](./Readme_img/Screenshot_20231126-190845_Gallery.jpg)
 
 
 ## images 
