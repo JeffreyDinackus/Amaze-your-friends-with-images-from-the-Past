@@ -32,16 +32,30 @@ my hs crew
 
 ![my hs crew](./80's/my-hs-crew.png)
 
+my gf
 
+![my gf](./80's/my-gf.jpg)
 
 ### 90's images 
 
+my crew
 
+![my crew](./90's/my-crew.png)
 
+my party
+
+![my party](./90's/my-party.jpg)
+
+me at the bonfire
+
+![my party](./90's/me-at-the-bonfire.jpg)
 
 ### 2000's images 
 
+my gf
 
+![my gf](./00's/my-gf.jpg)
 
+my ride
 
-### 2010's images 
+![my ride](./00's/my-ride.jpg)
