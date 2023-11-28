@@ -7,5 +7,11 @@ the basic premise of this project is you download the pics who have had their me
 ![example](./Readme_img/Screenshot_20231126-190845_Gallery.jpg)
 
 
-## 
+## basic usage 
+
+download a image you want. 
+
+open the image on your smartphone and figure out how to see when it was taken on your phone(I reccomend the official photo app on your phone.) 
+
+show it to people and make stuff up about the image 
 
