@@ -25,7 +25,7 @@ the basic premise of this project is you download the pics who have had their me
 ## images 
 
 
-80's images 
+### 80's images 
 
 
 my hs crew 
@@ -34,14 +34,14 @@ my hs crew
 
 
 
-90's images 
+### 90's images 
 
 
 
 
-2000's images 
+### 2000's images 
 
 
 
 
-2010's images 
+### 2010's images 
