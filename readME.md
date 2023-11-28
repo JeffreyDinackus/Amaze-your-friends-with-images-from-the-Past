@@ -20,3 +20,12 @@ the basic premise of this project is you download the pics who have had their me
 
 * show it to people and make stuff up about the image 
 
+
+
+## images 
+
+
+my hs crew 
+
+![my hs crew](./80's/my-hs-crew.png)
+
